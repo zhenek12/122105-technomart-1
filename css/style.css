@@ -1,0 +1,26 @@
+body {
+    font-size: 13px;
+    line-height: 24px;
+    color: black;
+    font-weight: normal;
+    font-style: normal ;
+    font-family: Cuprum;
+}
+
+h1 {
+    font-size: 16px;
+    line-height: 23px;
+    color: #ee3643;
+    font-weight: normal;
+    font-style: italic;
+    font-family: Cuprum;
+}
+
+h2{
+	font-size: 30px;
+	line-height: 30px;
+	color: black;
+	font-weight: normal;
+	font-style: normal ;
+	font-family: cuprum;
+}
